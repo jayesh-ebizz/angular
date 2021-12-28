@@ -1,7 +1,7 @@
 # Ahead-of-time (AOT) compilation
 
 An Angular application consists mainly of components and their HTML templates. Because the components and templates provided by Angular cannot be understood by the browser directly, Angular applications require a compilation process before they can run in a browser.
-
+kl;kl;
 The Angular [ahead-of-time (AOT) compiler](guide/glossary#aot) converts your Angular HTML and TypeScript code into efficient JavaScript code during the build phase _before_ the browser downloads and runs that code. Compiling your application during the build process provides a faster rendering in the browser.
 
 This guide explains how to specify metadata and apply available compiler options to compile your applications efficiently using the AOT compiler.
